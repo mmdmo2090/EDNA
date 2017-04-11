@@ -1,6 +1,7 @@
-# **EDNA**
+![Title](EDNA_Logo.PNG)
+##### <i>Enhanced Daily Notes & Agenda System
 
-EDNA is a project for my class System Fundamentals (COMP 430)
+EDNA is a project for an Undergraduate class: System Fundamentals (COMP 430)
 
 ## Getting Started
 
