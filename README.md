@@ -1,6 +1,6 @@
 # **EDNA**
 
-Edna is a project for my class System Fundamentals (COMP 430)
+EDNA is a project for my class System Fundamentals (COMP 430)
 
 ## Getting Started
 
