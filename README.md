@@ -1,6 +1,6 @@
 ![Title](EDNA_Logo.PNG)
 ##### <i>Enhanced Daily Notes & Agenda System
-
+___Work In Progress___
 EDNA is a project for an Undergraduate class: System Fundamentals (COMP 430)
 
 ## Getting Started
